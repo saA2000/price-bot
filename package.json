@@ -11,7 +11,7 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.0.35",
+    "@truffle/hdwallet-provider": "^1.7.0",
     "axios": "^0.19.2",
     "console.table": "^0.10.0",
     "dotenv": "^8.2.0",
