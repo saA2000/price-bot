@@ -11,12 +11,12 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.0.35",
+    "@truffle/hdwallet-provider": "^2.1.15",
     "axios": "^0.19.2",
     "console.table": "^0.10.0",
     "dotenv": "^8.2.0",
     "ejs": "^2.5.6",
-    "express": "^4.15.2",
+    "express": "^4.19.2",
     "infura-web3-provider": "0.0.3",
     "lodash": "^4.17.15",
     "moment": "^2.25.3",
